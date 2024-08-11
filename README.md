@@ -1,17 +1,19 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Ankush Kumar Shukla</h1>
-<h3 align="center">Passionate about building different types of software and to contribute and learn in the tech community.</h3>
+<h3 align="center">I am passionate about leveraging technology to solve real-world problems and eager to embark on a career where I can contribute my knowledge and enthusiasm for innovation in the field of computer science.</h3>
 
 <img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
 
-- 🌱 I’m currently learning : **Large Language Model**
+- 🌱 I’m currently learning : **NODEJS**
+
+- 👨‍💻 All of my projects are available at : [PORTFOLIO](https://ankush2003shukla.github.io/PortFolio/)
 
 - 💬 Ask me about : **Machine Learning,Deep Learning,Game Development,Web Development**
 
 - 📫 How to reach me : **shuklaankush2003@gmail.com**
 
-- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1XVD6_ZI0qnwIcLf2Luu62_5IwvwbOKt_/view?usp=sharing)
+- 📄 Know about my experiences : [My Resume](https://drive.google.com/file/d/1oInLg8j3KNvuRGIPch4PeclTa0k_ABlP/view?usp=sharing)
 - ⚡ Fun fact : **I once coded a program that could generate random jokes, but it got too funny and crashed the server! 🤖😄**
 
 <h3 align="left">Connect with me:</h3>
